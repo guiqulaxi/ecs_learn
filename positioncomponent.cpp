@@ -1,0 +1,4 @@
+﻿#include "positioncomponent.h"
+
+
+
